@@ -12,10 +12,10 @@
   'contributors' => 
   array (
   ),
-  'copyrightHolderType' => '',
+  'copyrightHolderType' => 'author',
   'copyrightNoticeAgree' => true,
   'copyrightYearBasis' => '',
-  'copySubmissionAckAddress' => 'ruriko.yoshida@uky.edu',
+  'copySubmissionAckAddress' => 'ryoshida@nps.edu',
   'copySubmissionAckPrimaryContact' => true,
   'copySubmissionAckSpecified' => true,
   'disableUserReg' => false,
@@ -43,7 +43,7 @@ http://library.iit.edu/jalgstat',
   'issuePerVolume' => 0,
   'itemsPerPage' => 25,
   'journalTheme' => 'jalgstat',
-  'licenseURL' => '',
+  'licenseURL' => 'http://creativecommons.org/licenses/by-nc/4.0',
   'mailingAddress' => '',
   'mailSubmissionsToReviewers' => false,
   'membershipFee' => 0,
@@ -69,7 +69,7 @@ http://library.iit.edu/jalgstat',
   'publicationFormatVolume' => true,
   'publicationFormatYear' => true,
   'publisherInstitution' => 'Paul V. Galvin Library',
-  'publisherUrl' => 'library.iit.edu/jalgstat',
+  'publisherUrl' => 'http://library.iit.edu/jalgstat/',
   'publishingMode' => 0,
   'purchaseArticleFee' => 0,
   'rateReviewerOnQuality' => true,
@@ -135,7 +135,7 @@ http://library.iit.edu/jalgstat',
   ),
   'additionalHomeContent' => 
   array (
-    'en_US' => '<div class="gmail_default"><div class="gmail_default">Aim and Scope:</div><div class="gmail_default"> </div><div class="gmail_default">Algebraic statistics focuses on mathematical aspects of statistical models, where algebraic, geometric and combinatorial insights can be useful to study behavior of statistical procedures. This approach has a long history in statistics and it can be traced back to Sir R.A. Fisher who used Abelian groups for experimental design and Karl Pearson who used polynomial algebra to study Gaussian mixture models. Since the turn of the century, the field has expanded and re-focused on applications of algebraic geometry, commutative algebra, and geometric combinatorics to the study of statistical models primarily for discrete data.</div><div class="gmail_default"><br />Recent advances in algebraic statistics have broadened the field beyond the \'traditional\' algebraic statistics that focused on contingency tables and experimental design. The field is currently expanding in several directions. First, the study of Gaussian models have become an important part of algebraic statistics. Second, its computational aspects relying on numerical algebraic geometry are advancing to address statistical questions crucial for validity of statistical inference. Third, singular learning theory enables to study asymptotic statistics for models with hidden variables. Fourth, establishing identifiability of statistical models become an integral part of algebraic statistics. Finally, there is a strong focus on applications of these methods to phylogenetics, machine learning, biochemical reaction networks, social sciences, economics, and ecological inference. </div></div>',
+    'en_US' => '<div class="gmail_default"><div class="gmail_default">Aim and Scope:</div><div class="gmail_default"> </div><div class="gmail_default">Algebraic statistics focuses on mathematical aspects of statistical models, where algebraic, geometric and combinatorial insights can be useful to study behavior of statistical procedures. This approach has a long history in statistics and it can be traced back to Sir R.A. Fisher who used Abelian groups for experimental design and Karl Pearson who used polynomial algebra to study Gaussian mixture models. Since the turn of the century, the field has expanded and re-focused on applications of algebraic geometry, commutative algebra, and geometric combinatorics to the study of statistical models primarily for discrete data.</div><div class="gmail_default"><br />Recent advances in algebraic statistics have broadened the field beyond the \'traditional\' algebraic statistics that focused on contingency tables and experimental design. The field is currently expanding in several directions. First, the study of Gaussian models have become an important part of algebraic statistics. Second, its computational aspects relying on numerical algebraic geometry are advancing to address statistical questions crucial for validity of statistical inference. Third, singular learning theory enables to study asymptotic statistics for models with hidden variables. Fourth, establishing identifiability of statistical models become an integral part of algebraic statistics. Finally, there is a strong focus on applications of these methods to phylogenetics, machine learning, biochemical reaction networks, social sciences, economics, and ecological inference. </div></div><div class="gmail_default"> </div><div class="gmail_default">The Journal of Algebraic Statistics seeks to publish new research articles in the braod area of algebraic statistics, both theoretical advnacements in the field - broadly defined - and its new applications.  From time to time, review papers on an emerging topic will also be considered appropriate. </div>',
   ),
   'authorGuidelines' => 
   array (
@@ -160,7 +160,7 @@ Illinois Institute of Technology',
   ),
   'copyrightNotice' => 
   array (
-    'en_US' => '<p>Upon submission, authors agree with the following <a href="/files/JAS-Copyright-submission.pdf">Article Submission Agreement</a>. Once the papers are published, authors are required to use the DOI link provided on all websites and arXiv postings of their paper. </p>',
+    'en_US' => '<p>Upon submission, authors agree with the following <a href="/files/JAS-Copyright-submission.pdf">Article Submission Agreement</a>. Once the papers are published, authors are required to use the DOI link provided on all websites and arXiv postings of their paper. </p><p>As this is an open access journal, all articles have a creative commons <a title="license" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_self">license</a>.</p><p> </p>',
   ),
   'customAboutItems' => 
   array (
@@ -179,7 +179,7 @@ Illinois Institute of Technology',
       2 => 
       array (
         'title' => 'Abstracting/Indexing',
-        'content' => '<ul><li><a title="Arastirmax Bilimsel Yayın İndeksi" href="http://www.arastirmax.com/dergi/journal-algebraic-statistics" target="_blank">Arastirmax Scientific Publication Index</a></li><li><a title="MathSciNet" href="http://www.ams.org/mathscinet/search/journaldoc.html?jc=JALGS" target="_blank">MathSciNet</a></li><li><a href="http://ip-science.thomsonreuters.com/cgi-bin/jrnlst/jlresults.cgi?PC=EX&amp;Full=Journal%20of%20algebraic%20statistics"><span>Thomson Reuters ESCI</span></a></li></ul>',
+        'content' => '<ul><li><a title="Arastirmax Bilimsel Yayın İndeksi" href="http://www.arastirmax.com/dergi/journal-algebraic-statistics" target="_blank">Arastirmax Scientific Publication Index</a></li><li><a title="MathSciNet" href="http://www.ams.org/mathscinet/search/journaldoc.html?jc=JALGS" target="_blank">MathSciNet</a></li><li><span><a href="http://ip-science.thomsonreuters.com/cgi-bin/jrnlst/jlresults.cgi?PC=EX&amp;Full=Journal%20of%20algebraic%20statistics">Thomson Reuters ESCI</a> and Web of Science</span></li></ul>',
       ),
       3 => 
       array (
@@ -190,7 +190,7 @@ Illinois Institute of Technology',
   ),
   'description' => 
   array (
-    'en_US' => '<div class="gmail_default"><span>The </span><em>Journal of Algebraic Statistics,</em><span> the first journal dedicated to the field, is an international electronic</span> journal devoted to the theory and application of algebraic statistics. The JAS seeks to publish a wide range of research and review papers that address one of the following:</div><div class="gmail_default"><ul><li>Mathematical aspects of statistical models, where algebraic, geometric and combinatorial insights can be useful to study behavior of statistical procedures;</li><li>Development of new statistical models with interesting algebraic or geometric propertis and applications;</li><li>Novel applications of the algebraic/geometric method in statistics. </li></ul><p>The Journal of Algebraic Statisitcs <span>is covered by the following indexing services:</span></p><ul><li>Mathematical Reviews (MR) MathSciNet</li><li>CrossRef</li></ul></div>',
+    'en_US' => '<div class="gmail_default"><p>The <em>Journal of Algebraic Statistics</em> is an international electronic journal devoted to algebraic aspects of statistical theory, methodology and applications.  JAS seeks to publish a wide range of research and review papers that address one of the following:</p><div class="gmail_default"><ul><li>Mathematical aspects of statistical models, where algebraic, geometric and combinatorial insights can be useful to study the behavior of statistical procedures;</li><li>Development of new statistical models and methods with interesting algebraic or geometric properties;</li><li>Novel applications of algebraic and geometric methods in statistics. </li></ul><div> </div><div>The Journal of Algebraic Statisitcs is covered by the following indexing services:</div></div></div><div class="gmail_default"><ul><li>Mathematical Reviews (MR) MathSciNet</li><li>CrossRef</li><li>Arastirmax Scientific Publication Index</li><li>Thomson Reuters ESCI and Web of Science</li></ul></div>',
   ),
   'donationFeeDescription' => 
   array (
@@ -210,11 +210,11 @@ Illinois Institute of Technology',
   ),
   'focusScopeDesc' => 
   array (
-    'en_US' => '<p>The <em>Journal of Algebraic Statistics,</em> the first journal dedicated to the field, is an international electronic journal devoted to the theory and application of algebraic statistics. The JAS seeks to publish a wide range of research and review papers that address one of the following:</p><div class="gmail_default"><ul><li>Mathematical aspects of statistical models, where algebraic, geometric and combinatorial insights can be useful to study behavior of statistical procedures;</li><li>Development of new statistical models with interesting algebraic or geometric propertis and applications;</li><li>Novel applications of the algebraic/geometric method in statistics. </li></ul></div>',
+    'en_US' => '<p><span>The </span><em>Journal of Algebraic Statistics</em><span> is an international electronic journal devoted to algebraic aspects of statistical theory, methodology and applications.  JAS seeks to publish a wide range of research and review papers that address one of the following:</span></p><div class="gmail_default"><ul><li>Mathematical aspects of statistical models, where algebraic, geometric and combinatorial insights can be useful to study the behavior of statistical procedures;</li><li>Development of new statistical models and methods with interesting algebraic or geometric properties;</li><li>Novel applications of algebraic and geometric methods in statistics. </li></ul></div>',
   ),
   'history' => 
   array (
-    'en_US' => '<p>Founded: 2009.</p><p>Launched: January 2010</p><p> </p><p><span>The journal has been published annually since 2010, and biannually since 2015. </span></p><p>Editorial Board Members updated 2014. </p>',
+    'en_US' => '<p>Founded: 2009.</p><p>Launched: January 2010 under Managing Editors Eyup Cetin and Unsal Tekir. Current Managing Editors serving since November 2011. </p><p>The journal has been published annually since 2010, and biannually since 2015. </p><p>Editorial Board membership rotation took place in 2014 and in 2017. Advisory Board updated in 2017. </p>',
   ),
   'homeHeaderTitleImage' => 
   array (
@@ -269,7 +269,7 @@ Illinois Institute of Technology',
   ),
   'openAccessPolicy' => 
   array (
-    'en_US' => 'This journal provides immediate open access to its content on the principle that making research freely available to the public supports a greater global exchange of knowledge.',
+    'en_US' => '<p>This journal provides immediate open access to its content on the principle that making research freely available to the public supports a greater global exchange of knowledge.</p><p>The Journal of Algebraic Statistics is an unaffiliated journal, run by the Managing Editors and the Advisory Board. Any future affiliations will be announced on this website.</p>',
   ),
   'pageHeaderTitleImage' => 
   array (

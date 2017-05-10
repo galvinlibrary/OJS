@@ -1,3 +1,5 @@
 config.inc.php
 .htaccess
 /plugins/reports
+/ojs3
+/files
